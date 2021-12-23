@@ -7,7 +7,7 @@
 - _Email_: vladimir.shilov19@gmail.com
   <br>
 
-## Summary
+## About Me
 
 > I have been studying web-development for about a year.During this time, managed to learn HTML, CSS, SCSS, GULP, as well as pass several courses and get a little experience in creating websites.At the moment I continue to learn and study Java ScriptMy goal is to become a good and in-demand front-end developer
 
